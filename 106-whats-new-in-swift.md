@@ -130,7 +130,9 @@ struct MyCoordinates {
 ```
 
 Old warning on `points[42].x = 19`: `'@lvalue $T7' is not identical to 'CGFloat'`
+
 New warning: `Cannot assign to 'x': 'self' is immutable`
+
 Plus quick fix: `Fix-it: Mark method 'mutating' to make 'self' mutable`
 
 Example 2:
@@ -168,7 +170,7 @@ Comments support Markdown format.
 
 ## Pattern Matching
 
-## inside "if" statement
+### inside "if" statement
 
 To avoid the "Pyramid of Doom", Swift introduces the **Compount Conditions** 
 
