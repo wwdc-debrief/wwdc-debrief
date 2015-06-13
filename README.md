@@ -60,7 +60,7 @@ Xcode7 includes a migrator for swift1.x to 2 and also support generics and nulla
 
 Xode7 includes some new features for Playground, like rich comments (using markdonw), resource folders, pmultiple pages and is it possible include code result directly below the source code.
 
-**APP THINNING**
+#### APP THINNING
 
 Xcode7 includes includes funcitionalities for the App Thinning:
 
@@ -68,7 +68,7 @@ Xcode7 includes includes funcitionalities for the App Thinning:
 * **slicing:** applications now will download olny the resources specific for that device. For example @3x images are downloaded only on iOS6+
 * **On Deman Resources:** Apple can store some (up to 4GB) of assets on his servers. These assets can be downloaded and used a usual.
 
-*min. 9 Starting demo*
+##### min. 9..18:  Demo
 
 * Migration to watchos2
 * App slicing
@@ -81,40 +81,25 @@ Is possible to remove all the downloaded resources.
 
 The resources can be downloaded using a `NBundleResourceRequest` and a `tag`
 
-*min. 18: End demo*
 
-**DEBUGGING**
+#### DEBUGGING
 
 Instrument includes a new profile Location Instrument  and a function called "Address Sanitizer"
 
-*min. 20: Starting demo Address sanitizer*
+##### min. 20..26:  Demo about address sanitizer
 
 Enable Address sanitizer from schema, the app is recompiled and we can see the dump of the memory and who allocated or deallocated a specific part of it.
 
 
-It can run on the server
-*min. 26: End demo*
 
-
-
-*min. 27: Starting demo*
-
-Demo about crash report on xcode
-
-*min. 26: End demo*
-
-
-**TESTING**
+#### TESTING
 
 XCode can create Code Coverage report after run a test. When enabled on the schema the code is colored if is not covered by test.
 
 Xcode include also a UI test Kit
 
-*min. 27: Starting demo*
+##### min. 27..37:  Demo about UI Test
 
-demo about UI Testing 
-
-*min. 37: end demo*
 
 
 
