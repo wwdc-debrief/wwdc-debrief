@@ -37,7 +37,7 @@ Code  | Title           | Link
 **wwdc-downloader:**
 
 Name            | Desc                                               | URL | 
-----------------| ---------------------------------------------------|
+----------------| ---------------------------------------------------|------
 wwdc-downloader | A bash script for downloading all the wwdc videos. | https://github.com/ohoachuck/wwdc-downloader
 Links | [http://mjtsai.com/blog/2015/06/09/wwdc-2015-links/]()
 
