@@ -1,6 +1,6 @@
 # WWDC Debrief
 
-A colleciton of WWDC 2015 information, resources and summaries.
+A collection of WWDC 2015 information, resources and summaries.
 
 
 ## General info
