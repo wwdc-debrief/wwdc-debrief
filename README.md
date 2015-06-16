@@ -48,9 +48,10 @@ Links | [http://mjtsai.com/blog/2015/06/09/wwdc-2015-links/]()
 
 
 
-## Videos
+## Summaries
 
 * 104: [What's new in Xcode](104-whats-new-in-xcode.md)
+* 105: [Introducing WatchKit for WatchOS 2](105-Introducing-WatchKit-for-watchos2.md)
 * 106: [What's new in Swift](106-whats-new-in-swift.md)
 
 
