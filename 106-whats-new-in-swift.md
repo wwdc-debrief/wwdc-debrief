@@ -52,7 +52,7 @@ enum Tree<T> {
 
 ### "do" Statement
 
-To avoid confusion between `do` keyword for scoping variables and `do-while` cycle, the second one has been replaced by `repeate`
+To avoid confusion between `do` keyword for scoping variables and `do-while` cycle, the second one has been replaced by `repeat`
 
 Scoping:
 ```swift
@@ -64,7 +64,7 @@ do {
 
 Do-while:
 ```swift
-repeate {
+repeat {
 	let a = Animals.Troll
 	...
 } while (...)
@@ -74,7 +74,7 @@ repeate {
 
 In Swift 1, option sets are defined and use like this
 ```swift
-viewAnimationOptions = .Repeate | .CurseEaseIn | .TransitionCurlUp
+viewAnimationOptions = .Repeat | .CurveEaseIn | .TransitionCurlUp
 viewAnimationOptions = nil
 if viewAnimationOptions & .TransitionCurlUp != nil {
 ```
@@ -84,7 +84,7 @@ Note that `nil` here is conceptually wrong.
 Swift 2 uses parenthesys
 
 ```swift
-viewAnimationOptions = [.Repeate | .CurseEaseIn | .TransitionCurlUp]
+viewAnimationOptions = [.Repeat | .CurveEaseIn | .TransitionCurlUp]
 viewAnimationOptions = []
 if viewAnimationOptions.contains(.TransitionCurlUp) {
 ```
