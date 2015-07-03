@@ -14,7 +14,7 @@ A colleciton of WWDC 2015 information, resources and summaries.
 3. New Apple watch version: watchos 2. With this version developers can write native application for the watch. [https://www.apple.com/watchos-2-preview/]()
 4. Apple release his own music streaming service: "Music"  [http://www.apple.com/music/]()
 5. Removed the newstand application, a new one is introduced: "news" with a secific data format [https://developer.apple.com/news-publisher/]()
-6. Siri become proactive, google now style. 
+6. Siri become proactive, google now style.
 7. On iPad user can split the screen and work on two separate app at the same time.
 8. Apple maps shows public transportation info
 9. Single Developer programm
@@ -36,7 +36,7 @@ Code  | Title           | Link
 
 **wwdc-downloader:**
 
-Name            | Desc                                               | URL | 
+Name            | Desc                                               | URL |
 ----------------| ---------------------------------------------------|------
 wwdc-downloader | A bash script for downloading all the wwdc videos. | https://github.com/ohoachuck/wwdc-downloader
 Links | [http://mjtsai.com/blog/2015/06/09/wwdc-2015-links/]()
@@ -54,6 +54,7 @@ Links | [http://mjtsai.com/blog/2015/06/09/wwdc-2015-links/]()
 * 105: [Introducing WatchKit for WatchOS 2](105-Introducing-WatchKit-for-watchos2.md)
 * 106: [What's new in Swift](106-whats-new-in-swift.md)
 * 107: [What's new in Cocoa Touch](107-whats-new-cocoa-touch.md)
+* 108: [Building Watch Apps](108-building-watch-apps.md)
 
 
 
