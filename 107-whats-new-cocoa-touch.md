@@ -1,13 +1,13 @@
 # 107: What’s New in Cocoa Touch
 
-**Link:** [https://developer.apple.com/videos/wwdc/2015/?id=107]()
+**Link:** [https://developer.apple.com/videos/wwdc/2015/?id=107](https://developer.apple.com/videos/wwdc/2015/?id=107)
 
 Starting from iOS 6 Apple introduced some changes to allow the application to run in differen screen sizes / form factories
 
 * iOS 6 -> Introduction of Autolayout
 * iOS 7 -> Introduction of DynamicType
 * iOS 8 -> Introduction of Adaptivity (aka Size classes)
-*  iOS 9 -> Introduction of multitasking, now the application need to adapt to mutiple lauout event on the same layout.
+* iOS 9 -> Introduction of multitasking, now the application need to adapt to mutiple lauout event on the same layout.
 
 ###News
 
@@ -54,7 +54,7 @@ Notification with text reply UIUserNotificationAction with custom done button
 **Safari Viewcontroller**
 
 SFSafariViewController is a Viewcontroller to show webpages with all the safari functionalities
- 
+
 **New extension points**
 
 - new vpn protocols
@@ -88,7 +88,7 @@ SFSafariViewController is a Viewcontroller to show webpages with all the safari 
 
 
 **UIDocument**
- 
+
  * can open document in place
 
 
@@ -105,7 +105,7 @@ SFSafariViewController is a Viewcontroller to show webpages with all the safari 
 
 **Various**
 
-* New api for Contacs 
+* New api for Contacs
 * New api for get curren location one shot.
 * **animate blur radious**
 * Nullabilty and Lighweight Generics for Obj-C
