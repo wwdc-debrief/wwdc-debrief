@@ -60,7 +60,7 @@ Links | [http://mjtsai.com/blog/2015/06/09/wwdc-2015-links/]()
 * 203: What's New in HealthKit
 * 204: Apple Watch Accessibility
 * 205: Getting Started with Multitasking on iPad in iOS 9
-* 206: [What's New in MapKit](206-whats-new-in-mapKit.md)
+* 206: [What's New in MapKit](206-whats-New-in-mapKit.md)
 
 
 
