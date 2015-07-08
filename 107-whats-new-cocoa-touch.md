@@ -1,6 +1,6 @@
 # 107: What’s New in Cocoa Touch
 
-**Link:** [https://developer.apple.com/videos/wwdc/2015/?id=107](https://developer.apple.com/videos/wwdc/2015/?id=107)
+**Link:** [https://developer.apple.com/videos/wwdc/2015/?id=107]()
 
 Starting from iOS 6 Apple introduced some changes to allow the application to run in differen screen sizes / form factories
 

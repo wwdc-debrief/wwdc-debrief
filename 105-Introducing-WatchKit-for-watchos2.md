@@ -1,13 +1,13 @@
 # 105: Introducing WatchKit for WatchOS 2
 
-**Link:** [https://developer.apple.com/videos/wwdc/2015/?id=105](https://developer.apple.com/videos/wwdc/2015/?id=105)
+**Link:** [https://developer.apple.com/videos/wwdc/2015/?id=105]()
 
 
 
 This is a short, introductory videos about all the new features introduced with Apple WatchOS 2. For each funcionality a specific video will be available.
 
 
-Of course the big news is that the new Apple WatchOS 2 can run native application without the iPhone. 
+Of course the big news is that the new Apple WatchOS 2 can run native application without the iPhone.
 The Apple watch can access directly to the nework, even if the iPhone is not present (wifi?)
 
 
