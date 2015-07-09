@@ -61,6 +61,13 @@ Links | [http://mjtsai.com/blog/2015/06/09/wwdc-2015-links/]()
 * 204: Apple Watch Accessibility
 * 205: Getting Started with Multitasking on iPad in iOS 9
 * 206: [What's New in MapKit](206-whats-New-in-mapKit.md)
+* 207: WatchKit In-Depth, Part 1
+* 208: WatchKit In-Depth, Part 2
+* 210: What's New in HomeKit
+* 211: Multitasking Essentials for Media-Based Apps on iPad in iOS 9
+* 212: Optimizing Your App for Multitasking on iPad in iOS 9
+* 213: Building Apps with ResearchKit
+* 214: [Introducing On Demand Resources](214-introducing-on-demand-resources.md)
 
 
 
