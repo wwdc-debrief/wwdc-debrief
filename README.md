@@ -40,7 +40,7 @@ Name            | Desc                                               | URL |
 ----------------| ---------------------------------------------------|------
 wwdc-downloader | A bash script for downloading all the wwdc videos. | https://github.com/ohoachuck/wwdc-downloader
 Links | [http://mjtsai.com/blog/2015/06/09/wwdc-2015-links/](http://mjtsai.com/blog/2015/06/09/wwdc-2015-links/)
-Links | [https://gist.github.com/mackuba/15994186a4f9d7da3137?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_206](https://gist.github.com/mackuba/15994186a4f9d7da3137?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_206)
+Links | [https://gist.github.com/mackuba/15994186a4f9d7da3137](https://gist.github.com/mackuba/15994186a4f9d7da3137)
 
 
 
