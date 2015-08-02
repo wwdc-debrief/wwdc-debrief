@@ -69,7 +69,7 @@ Links | [http://mjtsai.com/blog/2015/06/09/wwdc-2015-links/]()
 * 212: Optimizing Your App for Multitasking on iPad in iOS 9
 * 213: Building Apps with ResearchKit
 * 214: [Introducing On Demand Resources](214-introducing-on-demand-resources.md)
-* 215: What's New in Storyboards
+* 215: [What's New in Storyboards](215-whats-new-in-storyboards.md)
 * 216: Layout and Animation Techniques for WatchKit
 * 217: Adopting New Trackpad Features
 * 218: Mysteries of Auto Layout, Part 1
